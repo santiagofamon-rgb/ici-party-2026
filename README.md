@@ -16,4 +16,5 @@ Añade tu nombre al final de la lista para poder participar.
 * Gabriel Arenas
 * Joaquin Gallardo
 * Diego Fariña
-
+* Santigo Fajardo
+  
